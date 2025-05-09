@@ -86,7 +86,7 @@ export default function Landdingpage() {
                   <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div className="p-3" style={{ maxWidth: 700 }}>
                       <h1 className="display-4 text-white mb-3 animate__animated animate__fadeInDown">
-                        เสื้อผ้าเด็ก
+                        เสื้อผ้าเด็กเล็ก
                       </h1>
                       <p className="mx-md-5 px-5 animate__animated animate__bounceIn">
                         ใส่สบายน่ารักสมวัย
@@ -215,10 +215,10 @@ export default function Landdingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cloth6.jpg" alt="" />
+                  <img className="img-fluid" src="img/cloth16.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>กำไลข้อมือ</h6>
+                  <h6>หมวก</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -247,10 +247,10 @@ export default function Landdingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cloth8.jpg" alt="" />
+                  <img className="img-fluid" src="img/cloth17.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>ครีมบำรุงผิวกาย</h6>
+                  <h6>นาฬิกา</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -263,10 +263,10 @@ export default function Landdingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cloth9.jpg" alt="" />
+                  <img className="img-fluid" src="img/cloth18.jpg" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>ครีมบำรุงหน้า</h6>
+                  <h6>เสื้อยืด</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
@@ -359,10 +359,10 @@ export default function Landdingpage() {
                   className="overflow-hidden"
                   style={{ width: 100, height: 100 }}
                 >
-                  <img className="img-fluid" src="img/cloth15.jpg" alt="" />
+                  <img className="img-fluid" src="img/bb.png" alt="" />
                 </div>
                 <div className="flex-fill pl-3">
-                  <h6>ถุงเท้า</h6>
+                  <h6>ฟุตบอล</h6>
                   <small className="text-body">100 Products</small>
                 </div>
               </div>
